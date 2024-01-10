@@ -2,7 +2,7 @@
 
 Yumei Qi, Xiaolong Li
 
-# This is a complete process of bacterial evolutionary tree construction. As the article is still being submitted, there is no other information for the time being
+# This is the complete process of building a bacterial evolutionary tree (gtdbtk)
 
 1. Bacteris name(***[NCBI](https://www.ncbi.nlm.nih.gov/)***): n=30
 
