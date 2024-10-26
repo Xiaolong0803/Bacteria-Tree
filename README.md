@@ -4,7 +4,7 @@ Yumei Qi, Xiaolong Li
 
 # This is the complete process of building a bacterial evolutionary tree (gtdbtk)
 
-1. Bacteris name(***[NCBI](https://www.ncbi.nlm.nih.gov/)***): n=30
+1. Bacteris name(***[NCBI](https://www.ncbi.nlm.nih.gov/)***): n = 30
 
    ```shell
    AP017922.1 CP013285.1 CP013286.1 CP013287.1 Lin4-99 Liv1-1 Lm2-20 Lw4-43 NC_003210.1 NC_013891.1 NZ_CP006861.1 NZ_CP006874.1 NZ_CP007169.1 NZ_CP007172.1 NZ_CP007194.1 NZ_CP007196.1 NZ_CP007461.1 NZ_CP008770.1 NZ_CP011102.1 NZ_CP013289.1 NZ_CP019165.1 NZ_CP045743.1 NZ_CP089090.1 NZ_CP103399.1 NZ_CP113980.1 NZ_CP122330.1 NZ_LR134483.1 NZ_LT906444.1 NZ_LT906478.1 PPPJ01000002.1
@@ -18,7 +18,7 @@ Yumei Qi, Xiaolong Li
 
    
 
-2. Linux analysis environment ***[gtdbtk](https://github.com/Ecogenomics/GTDBTk)***: ***<span style="color:red">need download data(78G)</span>***
+2. Linux analysis environment ***[gtdbtk](https://github.com/Ecogenomics/GTDBTk)***: ***<span style="color:red"> need download data(78G)</span>***
 
    ```shell
    conda create -n gtdbtk
@@ -54,4 +54,4 @@ Yumei Qi, Xiaolong Li
 
 4. Graph: ***[iTol](https://itol.embl.de/)***
 
-![Alt Text](fig/image-20240110150527991.png)
+![Alt Text](fig/image-20241026213302333.png)
